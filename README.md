@@ -5,4 +5,4 @@
 	</picture>
 </div>
 
-This repo contains a template you can clone of [tldraw](https://github.com/tldraw/tldraw) in a [Next.js](https://nextjs.org/) app using the src directory and App router.
+This repo contains a very basic example of how to use [tldraw](https://github.com/tldraw/tldraw) in a [Next.js](https://nextjs.org/) app using the src directory and App router.
