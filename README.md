@@ -1,2 +1,8 @@
-# nextjs-template
-A template for how you can use tldraw in a NextJs application using the app router
+<div alt style="text-align: center; transform: scale(.5);">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tldraw/tldraw/main/assets/github-hero-dark-draw.png" />
+		<img alt="tldraw" src="https://raw.githubusercontent.com/tldraw/tldraw/main/assets/github-hero-light-draw.png" />
+	</picture>
+</div>
+
+This repo contains a template you can clone of [tldraw](https://github.com/tldraw/tldraw) in a [Next.js](https://nextjs.org/) app using the src directory and App router.
