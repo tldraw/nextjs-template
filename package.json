@@ -18,10 +18,10 @@
 		"@types/node": "^22.15.31",
 		"@types/react": "^19.2.7",
 		"@types/react-dom": "^19.2.3",
-		"next": "^15.5.14",
+		"next": "^15.5.16",
 		"react": "^19.2.1",
 		"react-dom": "^19.2.1",
-		"tldraw": "^5.0.0",
+		"tldraw": "^5.0.1",
 		"typescript": "^5.8.3"
 	}
 }
